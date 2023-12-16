@@ -115,8 +115,8 @@ export default function Home() {
         {/* image - end */}
       </section>
       <section className="flex flex-col items-center justify-between gap-10 border-t pt-8 lg:flex-row lg:gap-8">
-        {/* stats - start */}
-        <div className="-mx-6 grid grid-cols-2 gap-4 md:-mx-8 md:flex md:divide-x">
+       
+        {/* <div className="-mx-6 grid grid-cols-2 gap-4 md:-mx-8 md:flex md:divide-x">
           <div className="px-6 md:px-8">
             <span className="block text-center text-lg font-bold text-yellow-500 md:text-left md:text-xl">
               200
@@ -149,10 +149,9 @@ export default function Home() {
               Coffee breaks
             </span>
           </div>
-        </div>
-        {/* stats - end */}
-        {/* social - start */}
-        <div className="flex items-center justify-center gap-4 lg:justify-start">
+        </div> */}
+       
+        {/* <div className="flex items-center justify-center gap-4 lg:justify-start">
           <span className="text-sm font-semibold uppercase tracking-widest text-gray-400 sm:text-base">
             Social
           </span>
@@ -223,8 +222,8 @@ export default function Home() {
               </svg>
             </a>
           </div>
-        </div>
-        {/* social - end */}
+        </div> */}
+        
       </section>
     </div>
   </div>
