@@ -56,7 +56,7 @@ export default function Home() {
           href="#"
           className="hidden rounded-lg bg-gray-200 px-8 py-3 text-center text-sm font-semibold text-gray-500 outline-none ring-yellow-300 transition duration-100 hover:bg-gray-300 focus-visible:ring active:text-gray-700 md:text-base lg:inline-block"
         >
-          Contact Sales
+          Legal section
         </a>
         <button
           type="button"
@@ -98,7 +98,7 @@ export default function Home() {
               href="#"
               className="inline-block rounded-lg bg-gray-200 px-8 py-3 text-center text-sm font-semibold text-gray-500 outline-none ring-yellow-300 transition duration-100 hover:bg-gray-300 focus-visible:ring active:text-gray-700 md:text-base"
             >
-              Take tour
+              Feature
             </a>
           </div>
         </div>
@@ -111,6 +111,7 @@ export default function Home() {
             alt="Photo by Fakurian Design"
             className="h-full w-full object-cover object-center"
           />
+          
         </div>
         {/* image - end */}
       </section>
